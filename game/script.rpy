@@ -73,8 +73,8 @@ init:
     # Взломщик
     image vzlom = "Images/character_part1/vzlom.jpg"
     image vzlomr = "Images/character_part1/vzlom_r.jpg"
-    image vzlom_funny = "Images/character_part1/vzlom_smile.jpg"
-    image vzlom_stressful = "Images/character_part1/vzlom_stress.jpg"
+    image vzlomr_funny = "Images/character_part1/vzlom_smile.jpg"
+    image vzlomr_stressful = "Images/character_part1/vzlom_stress.jpg"
 
     
 label start:
