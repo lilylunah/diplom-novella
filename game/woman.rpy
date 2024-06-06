@@ -805,7 +805,7 @@ label scene_1_3w:
                     w "..."
                     "Ты хочешь сказать: эксперименты над людьми в прямом эфире?":
                         hide alice
-                        $ stress_org +=1
+                        $ stress_org += 1
                         show org_stressful at right
                         morg "Ну почему сразу эксперименты."
                         hide org_stressful
@@ -838,7 +838,7 @@ label scene_1_3w:
                         "Парень протянул мне ладонь для рукопожатия, я с удовольствием сделала также в ответ."
                     "Ты хочешь сказать: издевательства над людьми на смех людям?":
                         hide alice
-                        $ stress_org +=2 
+                        $ stress_org += 2 
                         show org_stressful at right
                         morg "Воу, воу. Я просто спросил, тем более они добровольно на это идут!"
                         hide org_stressful
