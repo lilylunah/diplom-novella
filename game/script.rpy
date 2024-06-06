@@ -29,52 +29,52 @@ init:
     image scene_1_2_room = im.Scale("Images/background_part1/room.jpg", 1280, 720)
 
     image scene_1_3_turniket = im.Scale("Images/background_part1/turniket.jpg", 1280, 720)
-    image scene_1_3_holl = im.Scale("Images/background_part1/holl.jpg", 1280, 720)
+    image scene_1_3_holl = im.Scale("Images/background_part1/holl.jpeg", 1280, 720)
     image scene_1_3_balkon = im.Scale("Images/background_part1/balkon.jpg", 1280, 720)
 
     # Aлиса
-    image alice = "Images/character_part1/alice.jpg"
-    image alicer = "Images/character_part1/alice_real.jpg"
-    image alice_sad = "Images/character_part1/alice_sad.jpg"
-    image alice_funny = "Images/character_part1/alice_smile.jpg"
-    image alice_scared = "Images/character_part1/alice_scared.jpg"
-    image alice_stressful = "Images/character_part1/alice_stress.jpg"
-    image alice_blushed = "Images/character_part1/alice_blushed.jpg"
-    image alice_angry = "Images/character_part1/alice_angry.jpg"
-    image alice_sad_r = "Images/character_part1/alice_sad_r.jpg"
-    image alice_funny_r = "Images/character_part1/alice_smile_r.jpg"
-    image alice_scared_r = "Images/character_part1/alice_scared_r.jpg"
-    image alice_stressful_r = "Images/character_part1/alice_stress_r.jpg"
-    image alice_blushed_r = "Images/character_part1/alice_blushed_r.jpg"
-    image alice_angry_r = "Images/character_part1/alice_angry_r.jpg"
+    image alice = im.Scale("Images/character_part1/alice.jpg", 440, 560)
+    image alicer = im.Scale("Images/character_part1/alice_real.jpg", 440, 560)
+    image alice_sad = im.Scale("Images/character_part1/alice_sad.jpg", 440, 560)
+    image alice_funny = im.Scale("Images/character_part1/alice_smile.jpg", 440, 560)
+    image alice_scared = im.Scale("Images/character_part1/alice_scared.jpg", 440, 560)
+    image alice_stressful = im.Scale("Images/character_part1/alice_stress.jpg", 440, 560)
+    image alice_blushed = im.Scale("Images/character_part1/alice_blushed.jpg", 440, 560)
+    image alice_angry = im.Scale("Images/character_part1/alice_angry.jpg", 440, 560)
+    image alice_sad_r = im.Scale("Images/character_part1/alice_sad_r.jpg", 440, 560)
+    image alice_funny_r = im.Scale("Images/character_part1/alice_smile_r.jpg", 440, 560)
+    image alice_scared_r = im.Scale("Images/character_part1/alice_scared_r.jpg", 440, 560)
+    image alice_stressful_r = im.Scale("Images/character_part1/alice_stress_r.jpg", 440, 560)
+    image alice_blushed_r = im.Scale("Images/character_part1/alice_blushed_r.jpg", 440, 560)
+    image alice_angry_r = im.Scale("Images/character_part1/alice_angry_r.jpg", 440, 560)
 
 
     # Элиас
-    image alias = "Images/character_part1/alias.jpg"
-    image aliasr = "Images/character_part1/alias_real.jpg"
-    image alias_sad = "Images/character_part1/alias_sad.jpg"
-    image alias_funny = "Images/character_part1/alias_smile.jpg"
-    image alias_scared = "Images/character_part1/alias_scared.jpg"
-    image alias_stressful = "Images/character_part1/alias_stress.jpg"
-    image alias_blushed = "Images/character_part1/alias_blushed.jpg"
-    image alias_angry = "Images/character_part1/alias_angry.jpg"
-    image alias_sad_r = "Images/character_part1/alias_sad_r.jpg"
-    image alias_funny_r = "Images/character_part1/alias_smile_r.jpg"
-    image alias_scared_r = "Images/character_part1/alias_scared_r.jpg"
-    image alias_stressful_r = "Images/character_part1/alias_stress_r.jpg"
-    image alias_blushed_r = "Images/character_part1/alias_blushed_r.jpg"
-    image alias_angry_r = "Images/character_part1/alias_angry_r.jpg"
+    image alias = im.Scale("Images/character_part1/alias.jpg", 440, 560)
+    image aliasr = im.Scale("Images/character_part1/alias_real.jpg", 440, 560)
+    image alias_sad = im.Scale("Images/character_part1/alias_sad.jpg", 440, 560)
+    image alias_funny = im.Scale("Images/character_part1/alias_smile.jpg", 440, 560)
+    image alias_scared = im.Scale("Images/character_part1/alias_scared.jpg", 440, 560)
+    image alias_stressful = im.Scale("Images/character_part1/alias_stress.jpg", 440, 560)
+    image alias_blushed = im.Scale("Images/character_part1/alias_blushed.jpg", 440, 560)
+    image alias_angry = im.Scale("Images/character_part1/alias_angry.jpg", 440, 560)
+    image alias_sad_r = im.Scale("Images/character_part1/alias_sad_r.jpg", 440, 560)
+    image alias_funny_r = im.Scale("Images/character_part1/alias_smile_r.jpg", 440, 560)
+    image alias_scared_r = im.Scale("Images/character_part1/alias_scared_r.jpg", 440, 560)
+    image alias_stressful_r = im.Scale("Images/character_part1/alias_stress_r.jpg", 440, 560)
+    image alias_blushed_r = im.Scale("Images/character_part1/alias_blushed_r.jpg", 440, 560)
+    image alias_angry_r = im.Scale("Images/character_part1/alias_angry_r.jpg", 440, 560)
 
     # Организатор
-    image org = "Images/character_part1/org.jpg"
-    image org_funny = "Images/character_part1/org_smile.jpg"
-    image org_stressful = "Images/character_part1/org_stress.jpg"
+    image org = im.Scale("Images/character_part1/org.jpg", 440, 560)
+    image org_funny = im.Scale("Images/character_part1/org_smile.jpg", 440, 560)
+    image org_stressful = im.Scale("Images/character_part1/org_stress.jpg", 440, 560)
 
     # Взломщик
-    image vzlom = "Images/character_part1/vzlom.jpg"
-    image vzlomr = "Images/character_part1/vzlom_r.jpg"
-    image vzlomr_funny = "Images/character_part1/vzlom_smile.jpg"
-    image vzlomr_stressful = "Images/character_part1/vzlom_stress.jpg"
+    image vzlom = im.Scale("Images/character_part1/vzlom.jpg", 440, 560)
+    image vzlomr = im.Scale("Images/character_part1/vzlom_r.jpg", 440, 560)
+    image vzlomr_funny = im.Scale("Images/character_part1/vzlom_smile_r.jpg", 440, 560)
+    image vzlomr_stressful = im.Scale("Images/character_part1/vzlom_stress_r.jpg", 440, 560)
 
     
 label start:
